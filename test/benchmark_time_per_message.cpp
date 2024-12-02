@@ -1,5 +1,5 @@
 #define BASE_LOG_DEBUG
-#include <base-logging/Logging.hpp>
+#include <Logging.hpp>
 
 int main()
 {

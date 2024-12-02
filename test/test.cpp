@@ -2,7 +2,7 @@
 #include <boost/test/unit_test.hpp>
 
 #define BASE_LOG_DEBUG
-#include <base-logging/Logging.hpp>
+#include <Logging.hpp>
 
 // Boost::Test fails the test suite if there are no tests defined
 //

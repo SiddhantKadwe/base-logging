@@ -157,7 +157,7 @@
 #include <stdio.h>
 #include <stdarg.h>
 #include <vector>
-#include "../Singleton.hpp"
+#include "Singleton.hpp"
 
 namespace base {
 
