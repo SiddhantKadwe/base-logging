@@ -28,5 +28,5 @@ install(TARGETS base_logging
     RUNTIME DESTINATION bin
 )
 install(FILES ${BASE_LOGGING_HEADERS}
-    DESTINATION include/base_logging/logging
+    DESTINATION include/base-logging/logging
 )
