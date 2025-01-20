@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 3.10)
 project(base_logging)
 
+set(CMAKE_POSITION_INDEPENDENT_CODE ON)
+
 # Define sources and headers
 set(BASE_LOGGING_SOURCES
     src/logging/logging_printf_style.cpp
